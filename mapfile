@@ -1,0 +1,6 @@
+basisdev-2GB:
+    - app1-ken13.mybasis.it:
+        minion:
+            grains:
+                role: app
+                cluster: ken13
