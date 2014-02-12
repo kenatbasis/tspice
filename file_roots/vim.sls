@@ -1,4 +1,4 @@
 vim:
   pkg:
     - installed
-    - name: vim
+    - name: htop
