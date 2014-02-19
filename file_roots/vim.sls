@@ -1,4 +1,4 @@
 vim:
   pkg:
     - installed
-    - name: htop
+    - name: build-essential
