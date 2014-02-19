@@ -6,6 +6,7 @@ ken12:
     'G@cluster:ken12':
     - match: compound
     - vim
+    - htop
 ken13:
     'G@cluster:ken13':
     - match: compound
